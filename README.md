@@ -34,4 +34,4 @@ Functional contact form with email or server-side integration. <br>
 Interactive menu with real-time updates. <br>
 
 ## Credits
-The design of this website is inspired by a template from Wix (https://www.wix.com/). All credit for the design goes to Wix for providing a visually appealing and user-friendly layout. You can view the original template [here target = _blank;](https://www.wix.com/website-template/view/html/3096?originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%3Fcriteria%3D47th%2Bcafe&tpClick=view_button&esi=e67047b6-8c0a-44f0-8e1d-cd4d95904f7a).
+The design of this website is inspired by a template from Wix (https://www.wix.com/). All credit for the design goes to Wix for providing a visually appealing and user-friendly layout. You can view the original template [here](https://www.wix.com/website-template/view/html/3096?originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%3Fcriteria%3D47th%2Bcafe&tpClick=view_button&esi=e67047b6-8c0a-44f0-8e1d-cd4d95904f7a).
