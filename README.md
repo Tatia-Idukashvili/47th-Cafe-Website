@@ -3,12 +3,12 @@
 The 47th Cafe website template is a modern, nice, and simple front-end project for a fictional cafe. Built with HTML, CSS, and JavaScript, this template serves as a foundation for a stylish cafe website, showcasing the cafe's services, menu, and contact information. It's a perfect solution for anyone looking to create a similar cafe website with a professional and appealing design.
 
 ### Features
-Introduction Page: A welcoming homepage with a brief introduction to the 47th Cafe.
-This Is Us: A page detailing the cafe's services and introducing the staff.
-Menu: A complete menu with sections for breakfast, desserts, and drinks, including descriptions and prices of each dish.
-Online Order: A mirrored menu for online ordering purposes.
-Contact Page: Includes a contact form (non-functional), contact information, and an embedded map showing a random location for the cafe.
-Responsive design: Fully Responsive design that adapts to various screen sizes and provides more flexibility for users. 
+• Introduction Page: A welcoming homepage with a brief introduction to the 47th Cafe.
+• This Is Us: A page detailing the cafe's services and introducing the staff.
+• Menu: A complete menu with sections for breakfast, desserts, and drinks, including descriptions and prices of each dish.
+• Online Order: A mirrored menu for online ordering purposes.
+• Contact Page: Includes a contact form (non-functional), contact information, and an embedded map showing a random location for the cafe.
+• Responsive design: Fully Responsive design that adapts to various screen sizes and provides more flexibility for users. 
 
 ### Installation Instructions
 Clone this repository to your local machine.
