@@ -660,6 +660,7 @@ textarea {
     }
     .text p{
         line-height: 25px;
+        font-size: 15px;
     }
     .text button{
         font-size: 14px;
