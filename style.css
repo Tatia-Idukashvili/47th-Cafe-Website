@@ -53,7 +53,7 @@ nav a:hover{
     z-index: 1;
     left: 70px;
     top: 0;
-    background-color: rgba(255, 237, 216, 0.925);
+    background-color: rgb(255, 237, 216);
     overflow-x: hidden;
     transition: 0.5s;
 }
@@ -586,6 +586,9 @@ textarea {
     header{
         position: sticky;
     }
+    .brand-area a{
+        margin-left: 20px;
+    }
     .navigation{
         display: none;
     }
@@ -612,13 +615,13 @@ textarea {
     }
     .go-to-spot{
         bottom: 80px;
-        left: 50px;
+        left: 30px;
     }
     .go-to-spot p{
         font-size: 17px;
     }
     .go-to-spot h1{
-        font-size: 40px;
+        font-size: 37px;
     }
     .go-to-spot button{
         width: 150px;
@@ -626,7 +629,7 @@ textarea {
     }
     .sales-board{
         height: 50px;
-        font-size: 16px;
+        font-size: 14px;
         padding-top: 13px;
         width: 100%;
     }
@@ -640,6 +643,7 @@ textarea {
     .text{
         width: 100%;
         height: 400px;
+        padding: 0px 30px;
     }
     .T{
         gap: 30px;
@@ -719,12 +723,12 @@ textarea {
         margin-top: 0px;
     }
     .title h4{
-        font-size: 18px;
+        font-size: 16px;
         line-height: 30px;
     }
     .the-best-bite{
         flex-direction: column;
-        height: 890px;
+        height: 880px;
     }
     .image-container img{
         width: 100%;
@@ -746,10 +750,10 @@ textarea {
     }
     .banner{
         height: 100px;
-        font-size: 25px;
+        font-size: 18px;
     }    
     .ic2 img{
-        height: 437px;
+        height: auto;
     }
     /* Menu */
     .menu{
@@ -791,7 +795,7 @@ textarea {
         margin-top: 0px;
     }
     .menu-title p{
-        font-size: 18px;
+        font-size: 16px;
         line-height: 30px;
     }
     .contact {
