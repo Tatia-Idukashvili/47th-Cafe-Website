@@ -16,14 +16,14 @@ Make sure all the files (HTML, CSS, JavaScript) are organized and properly linke
 
 You can run the website locally using a live server, such as:
 
-VS Code Live Server Extension
-Any web server setup of your choice.
+VS Code Live Server Extension <br>
+Any web server setup of your choice. <br>
 Open index.html in your browser to view the website.
 
 ### Technologies Used
-HTML: For structuring the content and pages.
-CSS: For styling and layout of the website.
-JavaScript: For basic interactivity.
+• HTML: For structuring the content and pages. <br>
+• CSS: For styling and layout of the website. <br>
+• JavaScript: For basic interactivity. <br>
 
 ### Screenshots/Demos
 Not provided, but you can easily host the website on a platform like GitHub Pages for a live demo.
