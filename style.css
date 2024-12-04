@@ -587,7 +587,7 @@ textarea {
         position: sticky;
     }
     .brand-area a{
-        margin-left: 5px;
+        margin-left: -20px;
     }
     .navigation{
         display: none;
@@ -728,7 +728,7 @@ textarea {
     }
     .the-best-bite{
         flex-direction: column;
-        height: 860px;
+        height: 850px;
     }
     .image-container img{
         width: 100%;
@@ -749,7 +749,7 @@ textarea {
         padding: 10px 35px;
     }
     .banner{
-        height: 100px;
+        height: 70px;
         font-size: 18px;
     }    
     .ic2 img{
