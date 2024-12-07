@@ -729,7 +729,7 @@ textarea {
     }
     .the-best-bite{
         flex-direction: column;
-        height: 850px;
+        height: 847px;
     }
     .image-container img{
         width: 100%;
@@ -756,6 +756,9 @@ textarea {
     .ic2 img{
         height: auto;
     }
+    /* .tbb-button{
+        margin-bottom: 10px;
+    } */
     /* Menu */
     .menu{
         height: 4900px;
