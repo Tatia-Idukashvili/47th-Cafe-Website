@@ -80,7 +80,7 @@ nav a:hover{
 .main-of-home-page{
     position: relative;
     margin-top: 90px;
-    background-image: url("./Media/Main\ Image.jpg");
+    background-image: url("./Media/Home\ Page/Main\ Image.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -756,9 +756,6 @@ textarea {
     .ic2 img{
         height: auto;
     }
-    /* .tbb-button{
-        margin-bottom: 10px;
-    } */
     /* Menu */
     .menu{
         height: 4900px;
